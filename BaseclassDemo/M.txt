@@ -1,0 +1,32 @@
+1.Browser launch()----------------C
+2.Close()-------------------------C
+3.Quit()--------------------------C
+4.Navigate to()-------------------C
+5.Navigate back()-----------------C
+6.Navigate forward ()-------------C
+7.Navigate refresh()--------------C
+8.Get()---------------------------C
+9.Alert()-------------------------C
+10.Action(All methods from action class)--HC
+11.Frames()-----------------------C
+12.Robot()------------------------C
+13.Window handles()---------------C
+14.Drop down ()-------------------C
+15.Check box()--------------------C
+16.Is enable()--------------------C
+17.Is displayed()-----------------C
+18.Is selected()------------------C
+19.Get options()------------------C
+20.Get title()---------------------C
+21.Get current url()---------------C
+22.Get text()----------------------C
+23.Get attribute()-----------------C
+24.Wait()--------------------------C
+25.Take screenshot()---------------C
+26.Scroll up and down()------------C
+27.Sendkeys()----------------------C
+28.Get first selected options()----C
+29.Get all selected options()------C
+30.Is multiple()-N
+31.Click()-------------------------C
+32.RadioButton()-------------------C
